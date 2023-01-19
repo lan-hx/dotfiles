@@ -1,4 +1,9 @@
-alias mv="mv -i" # no slient overwrite
-alias sudo="sudo -E" # use user env
-alias curl="curl -L" # enable redirect
+# no slient overwrite
+alias mv="mv -i"
+
+# use user env
+alias sudo="sudo -E"
+
+# enable redirect
+alias curl="curl -L"
 
