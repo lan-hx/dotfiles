@@ -1,6 +1,7 @@
 [user]
-	name = lan
-	email = xuanhaole@163.com
+  name = lan
+  email = 59274072+lan-hx@users.noreply.github.com
+  signingkey = 8EFFC3700CCD52F4
 [core]
   editor = code --wait
 [diff]
@@ -11,3 +12,5 @@
   tool = vscode
 [mergetool "vscode"]
   cmd = code --wait $MERGED
+[commit]
+  gpgsign = true
